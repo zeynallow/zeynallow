@@ -2,7 +2,7 @@
 
 **Software Engineer** · 15+ years in software development · Baku, Azerbaijan
 
-I build software end to end — backend systems, the interfaces people use, and everything in between taking ideas from first architecture decisions to stable, long-lived production software. My work spans e-commerce, booking, rental and analytics platforms, complex third-party and hardware integrations, and, more recently, AI-driven products.
+I build software end to end backend systems, the interfaces people use, and everything in between taking ideas from first architecture decisions to stable, long-lived production software. My work spans e-commerce, booking, rental and analytics platforms, complex third-party and hardware integrations, and, more recently, AI-driven products.
 
 I value software that is simple to reason about, easy to change, and dependable under real-world load.
 
